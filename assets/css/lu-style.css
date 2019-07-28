@@ -1,0 +1,172 @@
+#page-2 p {
+    font-size: 0.9em;
+}
+
+#page-2 h5 {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+#pago h4, #pago h3 {
+    font-weight: bold;
+}
+
+#pago h3 {
+    font-size: 1.1em;
+}
+
+#pago h1 {
+    font-size: 2em;
+    font-weight: bolder;
+}
+
+#pago p {
+    font-size: 0.8em;
+}
+
+#pago h4 {
+    font-size: 1.2em;
+}
+
+#pago h5 {
+    font-size: 0.9em;
+}
+
+img#oxxo {
+    width: 24% !important;
+}
+
+img#visa {
+    width: 60% !important;
+    height: 60%;
+}
+
+#divider {
+    width: 70%;
+    margin: 20px auto;
+    border-bottom: 5px solid #dedede;
+}
+
+footer p {
+    font-size: 0.8em;
+}
+
+footer h5 {
+    font-size: 1em;
+}
+
+footer span {
+    font-size: 1.8em;
+}
+
+footer img {
+    width: 30px;
+    margin-top: -10px;
+}
+
+#sugerencias {
+    margin-top: 80px;
+}
+
+#sugerencias img {
+    width: 350px !important;
+}
+
+#bottom-footer {
+    margin-top: 80px !important;
+    height: 300px;
+    background-image: url('../images/footer-img.jpg');
+    background-size: cover;
+}
+
+@media (min-width:1024px) {
+    #logo {
+        width: 500px;
+        margin: 0 auto;
+    }
+
+    #main-img {
+        width: 926px;
+        margin: 0 auto;
+    }
+
+    #divider {
+        width: 50%;
+        margin: 30px auto;
+    }
+
+    #page-2 h5 {
+        font-size: 1.8em;
+    }
+
+    #page-2 p {
+        font-size: 1.4em;
+    }
+
+    #page-2 h4 {
+        font-size: 1.8em;
+    }
+
+    #page-3 h4 {
+        font-size: 2.4em;
+        font-weight: bolder;
+    }
+
+    #page-3 p {
+        font-size: 2em;
+    }
+
+    #pago {
+        margin-top: 50px;
+    }
+
+    #pago h4 {
+        font-size: 1.8em;
+    }
+
+    #pago h3 {
+        font-size: 1.6em;
+    }
+
+    #pago p {
+        font-size: 1.4em;
+    }
+
+    #pago h1 {
+        font-size: 3em;
+    }
+
+    #pago h5 {
+        font-size: 1.8em;
+    }
+
+    #tarjetas {
+        width: 30%;
+        margin: 0 auto;
+    }
+
+    footer h4 {
+        font-size: 1.6em;
+    }
+
+    footer p {
+        font-size: 1.2em;
+    }
+
+    footer h5 {
+        font-size: 2em;
+    }
+
+    footer span {
+        font-size: 1.8em;
+        font-weight: 600;
+    }
+
+    #whatsapp img{
+        margin-right: 5px;
+    }
+
+    #bottom-footer {
+        height: 500px;
+    }
+}
